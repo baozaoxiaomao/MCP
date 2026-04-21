@@ -1,9 +1,8 @@
-# 手写MCP客户端 - 100%适配你的FastMCP服务端
 import asyncio
 from fastmcp import FastMCPClient
 
 async def main():
-    # 直接连接你的 text.py 服务端（自动启动，无需手动运行）
+
     client = FastMCPClient(
         command="python",
         args=["text.py"]
