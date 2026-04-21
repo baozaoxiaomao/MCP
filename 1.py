@@ -1,9 +1,9 @@
 import json
 
-# 你的任务描述
+
 TASK_DESCRIPTION = "专属AI助手，擅长日常对话和简单问答"
 
-# 生成指令的提示词
+
 prompt = f"""
 请生成50条用于微调大模型的训练数据，任务类型：{TASK_DESCRIPTION}
 
