@@ -42,11 +42,9 @@ mcp-demo/
 1. 克隆 / 下载项目到本地
 2. 安装项目依赖
 
-```
-pip install -r requirements.txt
-```
-
 ## 使用教程
+
+<img width="1248" height="680" alt="3a922a8fec1d466abfd65c0508b90256" src="https://github.com/user-attachments/assets/347c8d94-63b6-42e1-b468-f6158bb76556" />
 
 ### 方式 1：CherryAI 客户端连接（推荐，可视化调用）
 
@@ -62,6 +60,8 @@ pip install -r requirements.txt
 调用本地MCP计算器工具，计算 10 + 20
 调用本地MCP工具获取桌面文件列表
 ```
+<img width="723" height="556" alt="d2695085a8154ec1a4fde8f841a90c73" src="https://github.com/user-attachments/assets/6a3ec730-9da4-4483-ae0e-bc1901b8153e" />
+<img width="723" height="556" alt="c7a128d446664ce6a2d9c8be0c599252" src="https://github.com/user-attachments/assets/2dbbc074-fb98-4670-9238-837307172e74" />
 
 ### 方式 2：手写 Python 客户端调用
 
